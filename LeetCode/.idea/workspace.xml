@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28a97093-a6ba-4a2e-bf9b-b86dc1280d44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/双指针/CycleList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/window/MinimumSubString2_76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/window/MinimumSubString_76.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/贪心算法/EraseOverlap$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/贪心算法/EraseOverlap$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/贪心算法/EraseOverlap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/贪心算法/EraseOverlap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/双指针/CycleList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/双指针/CycleList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/双指针/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/双指针/ListNode.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +66,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.CycleList">
+  <component name="RunManager">
     <configuration name="Candy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="贪心算法.Candy" />
       <module name="LeetCode" />
@@ -104,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Situation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="median.Situation" />
+    <configuration name="MinimumSubString2_76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="window.MinimumSubString2_76" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="median.*" />
+          <option name="PATTERN" value="window.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,20 +119,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="MinimumSubString_76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="window.MinimumSubString_76" />
       <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumSubString2_76" />
+        <item itemvalue="Application.MinimumSubString_76" />
         <item itemvalue="Application.CycleList" />
         <item itemvalue="Application.EraseOverlap" />
         <item itemvalue="Application.Candy" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Situation" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +170,7 @@
       <workItem from="1606830144612" duration="2310000" />
       <workItem from="1606919051562" duration="3147000" />
       <workItem from="1606994494320" duration="27000" />
-      <workItem from="1607000661403" duration="1485000" />
+      <workItem from="1607000661403" duration="7696000" />
     </task>
     <servers />
   </component>
@@ -174,29 +182,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="198" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1605255645072" />
-    <state width="1867" height="166" key="GridCell.Tab.0.bottom" timestamp="1607001919026">
+    <state width="1867" height="166" key="GridCell.Tab.0.bottom" timestamp="1607007893441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
-    <state width="1867" height="166" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1607001919026" />
+    <state width="1867" height="166" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1607007893441" />
     <state width="1867" height="166" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606924685366" />
-    <state width="1867" height="166" key="GridCell.Tab.0.center" timestamp="1607001919026">
+    <state width="1867" height="166" key="GridCell.Tab.0.center" timestamp="1607007893441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
-    <state width="1867" height="166" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1607001919026" />
+    <state width="1867" height="166" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1607007893441" />
     <state width="1867" height="166" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606924685366" />
-    <state width="1867" height="166" key="GridCell.Tab.0.left" timestamp="1607001919026">
+    <state width="1867" height="166" key="GridCell.Tab.0.left" timestamp="1607007893441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
-    <state width="1867" height="166" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1607001919026" />
+    <state width="1867" height="166" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1607007893441" />
     <state width="1867" height="166" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606924685366" />
-    <state width="1867" height="166" key="GridCell.Tab.0.right" timestamp="1607001919026">
+    <state width="1867" height="166" key="GridCell.Tab.0.right" timestamp="1607007893441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
-    <state width="1867" height="166" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1607001919026" />
+    <state width="1867" height="166" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1607007893441" />
     <state width="1867" height="166" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606924685366" />
     <state width="1867" height="332" key="GridCell.Tab.1.bottom" timestamp="1606752570655">
       <screen x="-1080" y="-420" width="1080" height="1880" />
