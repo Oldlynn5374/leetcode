@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28a97093-a6ba-4a2e-bf9b-b86dc1280d44" name="Default Changelist" comment="归并排序">
-      <change afterPath="$PROJECT_DIR$/src/search/PacificWaterFlow_417.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/Combination_77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/NQueen_51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/Permutations_46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/WordSearch_79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Brac.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/search/PacificWaterFlow_417.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/search/PacificWaterFlow_417.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +67,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.PacificWaterFlow_417">
-    <configuration name="MaxAreaOfIsland_695" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.MaxAreaOfIsland_695" />
+  <component name="RunManager" selected="Application.WordSearch_79">
+    <configuration name="Brac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.Brac" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="search.*" />
+          <option name="PATTERN" value="utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.MergeSort" />
+    <configuration name="Combination_77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.Combination_77" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumOfProvinces_547" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.NumOfProvinces_547" />
+    <configuration name="NQueen_51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.NQueen_51" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="search.*" />
+          <option name="PATTERN" value="backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PacificWaterFlow_417" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.PacificWaterFlow_417" />
+    <configuration name="Permutations_46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.Permutations_46" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="search.*" />
+          <option name="PATTERN" value="backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.QuickSort" />
+    <configuration name="WordSearch_79" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.WordSearch_79" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PacificWaterFlow_417" />
-        <item itemvalue="Application.NumOfProvinces_547" />
-        <item itemvalue="Application.MaxAreaOfIsland_695" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.WordSearch_79" />
+        <item itemvalue="Application.Brac" />
+        <item itemvalue="Application.NQueen_51" />
+        <item itemvalue="Application.Combination_77" />
+        <item itemvalue="Application.Permutations_46" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +181,13 @@
       <workItem from="1610630493609" duration="4870000" />
       <workItem from="1610757649954" duration="5476000" />
       <workItem from="1610969998960" duration="7170000" />
-      <workItem from="1611018626892" duration="6032000" />
+      <workItem from="1611018626892" duration="9260000" />
+      <workItem from="1611052227543" duration="855000" />
+      <workItem from="1611106314208" duration="5256000" />
+      <workItem from="1611120305591" duration="7122000" />
+      <workItem from="1611193996938" duration="4037000" />
+      <workItem from="1611278849299" duration="6189000" />
+      <workItem from="1611300790662" duration="1030000" />
     </task>
     <task id="LOCAL-00001" summary="快速排序">
       <created>1610547216424</created>
@@ -216,64 +227,68 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="198" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1605255645072" />
-    <state width="1867" height="268" key="GridCell.Tab.0.bottom" timestamp="1611024636627">
+    <state width="1867" height="268" key="GridCell.Tab.0.bottom" timestamp="1611301759480">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
     <state width="1867" height="166" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1607007893441" />
-    <state width="1867" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611024636627" />
-    <state width="1867" height="268" key="GridCell.Tab.0.center" timestamp="1611024636612">
+    <state width="1867" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611301759480" />
+    <state width="1867" height="268" key="GridCell.Tab.0.center" timestamp="1611301759479">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
     <state width="1867" height="166" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1607007893441" />
-    <state width="1867" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611024636612" />
-    <state width="1867" height="268" key="GridCell.Tab.0.left" timestamp="1611024636612">
+    <state width="1867" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611301759479" />
+    <state width="1867" height="268" key="GridCell.Tab.0.left" timestamp="1611301759479">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
     <state width="1867" height="166" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1607007893441" />
-    <state width="1867" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611024636612" />
-    <state width="1867" height="268" key="GridCell.Tab.0.right" timestamp="1611024636612">
+    <state width="1867" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611301759479" />
+    <state width="1867" height="268" key="GridCell.Tab.0.right" timestamp="1611301759479">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
     <state width="1867" height="166" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1607007893441" />
-    <state width="1867" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611024636612" />
-    <state width="1867" height="330" key="GridCell.Tab.1.bottom" timestamp="1611024299269">
+    <state width="1867" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611301759479" />
+    <state width="1867" height="330" key="GridCell.Tab.1.bottom" timestamp="1611290580872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570655" />
     <state width="1867" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1606748306193" />
-    <state width="1867" height="330" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611024299269" />
-    <state width="1867" height="330" key="GridCell.Tab.1.center" timestamp="1611024299269">
+    <state width="1867" height="330" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611290580872" />
+    <state width="1867" height="330" key="GridCell.Tab.1.center" timestamp="1611290580872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.1.center/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
     <state width="1867" height="332" key="GridCell.Tab.1.center/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1606748306193" />
-    <state width="1867" height="330" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611024299269" />
-    <state width="1867" height="330" key="GridCell.Tab.1.left" timestamp="1611024299269">
+    <state width="1867" height="330" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611290580872" />
+    <state width="1867" height="330" key="GridCell.Tab.1.left" timestamp="1611290580872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.1.left/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
     <state width="1867" height="332" key="GridCell.Tab.1.left/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1606748306193" />
-    <state width="1867" height="330" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611024299269" />
-    <state width="1867" height="330" key="GridCell.Tab.1.right" timestamp="1611024299269">
+    <state width="1867" height="330" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611290580872" />
+    <state width="1867" height="330" key="GridCell.Tab.1.right" timestamp="1611290580872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.1.right/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
     <state width="1867" height="332" key="GridCell.Tab.1.right/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1606748306193" />
-    <state width="1867" height="330" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611024299269" />
+    <state width="1867" height="330" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611290580872" />
     <state x="312" y="0" key="SettingsEditor" timestamp="1610630525969">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="312" y="0" key="SettingsEditor/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1605183628727" />
     <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610630525969" />
-    <state x="552" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1611018631131">
+    <state x="452" y="186" key="Vcs.Push.Dialog.v2" timestamp="1611144487053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="186" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611144487053" />
+    <state x="552" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1611300798328">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1606994498539" />
-    <state x="552" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611018631131" />
+    <state x="552" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611300798328" />
     <state x="694" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610547219883">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -322,11 +337,32 @@
           <line>205</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/backtracking/Permutations_46.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/backtracking/Combination_77.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/backtracking/NQueen_51.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/backtracking/WordSearch_79.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="l2" />
+        <watch expression="result" />
       </configuration>
     </watches-manager>
   </component>
