@@ -1,6 +1,4 @@
-package search;
-
-import java.util.List;
+package DFS;
 
 public class NumOfProvinces_547 {
 

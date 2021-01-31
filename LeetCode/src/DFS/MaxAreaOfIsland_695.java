@@ -1,4 +1,4 @@
-package search;
+package DFS;
 
 
 public class MaxAreaOfIsland_695 {
