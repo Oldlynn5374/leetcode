@@ -1,7 +1,7 @@
 package sort;
 
 public class QuickSort {
-    public  void sort(int[] a,int l,int r){
+    public void sort(int[] a,int l,int r){
         if (l > r) return;
         int pos = partition(a, l, r);
         sort(a,l,pos - 1);
@@ -24,6 +24,25 @@ public class QuickSort {
 
         }
         a[low] = p;
+        return low;
+    }
+
+    public int partition2(int[] a, int low, int high){
+
+        int temp = a[low];
+        while (low < high){
+            while (a[high] >= temp && low < high){
+                high--;
+            }
+            a[low] = a[high];
+
+            while (a[low] <= temp && low < high){
+                low++;
+            }
+            a[high] = a[low];
+        }
+        a[low] = temp;
+
         return low;
     }
 
