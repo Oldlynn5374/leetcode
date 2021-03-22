@@ -75,6 +75,18 @@ public class WordBreak_139 {
         return dp[size];
     }
 
+    public boolean wordBreak3(String s, List<String> wordDict) {
+        int size = s.length();
+        boolean[]dp = new boolean[size + 1];
+        Set<String> word = new HashSet<>(wordDict);
+        int pre = 0;
+        for (int cur = 0; cur < s.length(); cur++){
+
+        }
+
+        return dp[size];
+    }
+
     public static void main(String[] args) {
         String s = "aaaaaaa";
         List<String> wordDict = new ArrayList<>();

@@ -40,8 +40,47 @@ public class WiggleSubSequence_376 {
         return dp[nums.length - 1];
     }
 
+    public int wiggleMaxLength2(int[] nums) {
+        boolean isUp = false;
+
+        int result = 2;
+        int num1 = nums[0];
+        int num2 = nums[1];
+        int top = num2;
+        if (num1 > num2){
+            isUp = true;
+        }else {
+            isUp = false;
+        }
+
+        int pos = 2;
+        while (pos < nums.length){
+            int num = nums[pos++];
+
+            if (num < top){
+                if (isUp){
+                    top = num;
+                }else {
+                    top = num;
+                    result++;
+                    isUp = !isUp;
+                }
+            }else if (num > top){
+                if (!isUp){
+                    top = num;
+                }else {
+                    top = num;
+                    result++;
+                    isUp = !isUp;
+                }
+            }
+        }
+
+        return result;
+    }
+
     public static void main(String[] args) {
-        int[] nums = {1,1,1,2,2,2,1,1,1,3,3,3,4,4,4};
-        System.out.println(new WiggleSubSequence_376().wiggleMaxLength(nums));
+        int[] nums = {1,2,3,4,5,6,7,8,9};
+        System.out.println(new WiggleSubSequence_376().wiggleMaxLength2(nums));
     }
 }

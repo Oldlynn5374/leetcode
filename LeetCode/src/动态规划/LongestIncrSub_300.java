@@ -54,6 +54,8 @@ public class LongestIncrSub_300 {
     }
 
 
+
+
     public int lower_bound(int[] arr, int begin, int end, int tar) {
         while(begin < end) {
             int mid = begin + (end - begin) / 2;
@@ -72,7 +74,7 @@ public class LongestIncrSub_300 {
 
     public static void main(String[] args) {
         LongestIncrSub_300 longestIncrSub = new LongestIncrSub_300();
-        int[] a = {2,0,1,1,3};
+        int[] a = {0,1,0,3,2,3};
         System.out.println(longestIncrSub.lengthOfLIS2(a));
 /*        int i = longestIncrSub.lower_bound(a, 0, a.length, 3);
         System.out.println(i);*/

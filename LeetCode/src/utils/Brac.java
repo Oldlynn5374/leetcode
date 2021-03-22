@@ -9,7 +9,7 @@ public class Brac {
     }
 
     public static void main(String[] args) {
-        String str = "[[7,9],[4,5],[7,9],[-7,-1],[0,10],[3,10],[3,6],[2,3]]";
+        String str = "[[1,2,3,4],[5,6,7,8],[9,10,11,12],[13,14,15,16]]";
         str = Brac.changeBrac(str);
         System.out.println(str);
     }

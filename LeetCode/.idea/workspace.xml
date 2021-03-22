@@ -1,43 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28a97093-a6ba-4a2e-bf9b-b86dc1280d44" name="Default Changelist" comment="归并排序">
-      <change afterPath="$PROJECT_DIR$/src/sort/MergeSort_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/MergeSort_Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/MergeSort_Practice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/MergeSort_Practice4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/QuickSort_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/QuickSort_Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/QuickSort_Practice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/QuickSort_Practice4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/LongestCommonSub_1143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/LongestIncrSub_300.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/字符串编辑/EditDistance_72.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/字符串编辑/RegularExpressionMatching_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/字符串编辑/TwoKeysKeyboard_650.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/练习题/BestTimeToBuyAndSellStockWithFee_714.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/练习题/DeleteOperationForTwoStrings_583.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/练习题/HouseRobber2_213.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/练习题/IntegerBreak_343.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/练习题/MaximumLengthOfPairChain_646.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/练习题/MaximumSubarray_53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/练习题/TargetSum_494.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/练习题/WiggleSubSequence_376.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/股票问题/BestTimeToBuyAndSellStock4_188.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/股票问题/BestTimeToBuyAndSellStock_121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/股票问题/BestTimeToBuyAndSellWithCooldown_309.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/背包问题/CoinChange_322.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/背包问题/OnesAndZeros_474.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/背包问题/PartitionEqualSubsetSum_416.java" afterDir="false" />
+    <list default="true" id="28a97093-a6ba-4a2e-bf9b-b86dc1280d44" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/backtracking/ThreeSum_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/MergeSort_Practice5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/QuickSort_Practice5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/TestClone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/字节跳动/ByteDance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/字节跳动/ByteDance2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/字节跳动/ByteDance3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/字节跳动/KthSmallest_378.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/Closest3Sum_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/ContainerWithMostWater_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/IntReverse_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/JumpGame_55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/LongestCommonPrefix_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/MergeKLists_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/MultiplyStrings_43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/PartitionList_86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/RotateList_61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/SearchinRotatedSortedArray_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/SortCharactersByFrequency_451.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/SpiralMatrix_54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/StringToInt_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/分治法/BurstBallons_312.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/分治法/DifferentWaysToAddParentheses_241.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/练习题/CheapestFlightsWithinKStops_787.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/练习题/CountSubmatricesWithAllOnes_1504.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/练习题/FillingShelves_1105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/练习题/GreatestSumDivisiblebyThree_1262.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/练习题/LongestTurbulentSubarray_978.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/练习题/New21Game_837.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/练习题/WhereBallFall_1706.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/字符串/LongestPalindromicSubstring_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数据结构/堆/Heap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/sort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/sort/QuickSort.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/utils/Brac.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/utils/Brac.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/utils/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/utils/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/二分查找/MedianOfTwoSortedArrays_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/二分查找/MedianOfTwoSortedArrays_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/动态规划/WordBreak_139.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/动态规划/WordBreak_139.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/QuickSort_Practice4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/QuickSort_Practice4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utils/Brac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Brac.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utils/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/二分查找/MedianOfTwoSortedArrays_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/二分查找/MedianOfTwoSortedArrays_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/动态规划/LongestIncrSub_300.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/动态规划/LongestIncrSub_300.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/动态规划/WordBreak_139.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/动态规划/WordBreak_139.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/动态规划/练习题/WiggleSubSequence_376.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/动态规划/练习题/WiggleSubSequence_376.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +92,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/JavaCode/other_project/springboot-seckill-master/springboot-seckill-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -96,13 +104,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.BestTimeToBuyAndSellStockWithFee_714">
-    <configuration name="BestTimeToBuyAndSellStockWithFee_714" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="动态规划.练习题.BestTimeToBuyAndSellStockWithFee_714" />
+  <component name="RunManager" selected="Application.RotateList_61">
+    <configuration name="Brac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.Brac" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="动态规划.练习题.*" />
+          <option name="PATTERN" value="utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.MergeSort_Practice" />
+    <configuration name="JumpGame_55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他.腾讯.JumpGame_55" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="其他.腾讯.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort_Practice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.MergeSort_Practice4" />
+    <configuration name="RotateList_61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他.腾讯.RotateList_61" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="其他.腾讯.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort_Practice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.QuickSort_Practice4" />
+    <configuration name="SpiralMatrix_54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他.腾讯.SpiralMatrix_54" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="其他.腾讯.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TargetSum_494" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="动态规划.练习题.TargetSum_494" />
+    <configuration name="TestClone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestClone" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="动态规划.练习题.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BestTimeToBuyAndSellStockWithFee_714" />
-        <item itemvalue="Application.TargetSum_494" />
-        <item itemvalue="Application.MergeSort_Practice" />
-        <item itemvalue="Application.QuickSort_Practice4" />
-        <item itemvalue="Application.MergeSort_Practice4" />
+        <item itemvalue="Application.RotateList_61" />
+        <item itemvalue="Application.SpiralMatrix_54" />
+        <item itemvalue="Application.Brac" />
+        <item itemvalue="Application.JumpGame_55" />
+        <item itemvalue="Application.TestClone" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +259,38 @@
       <workItem from="1612950445997" duration="64000" />
       <workItem from="1613700582538" duration="6250000" />
       <workItem from="1613727175889" duration="2261000" />
-      <workItem from="1613787583061" duration="3117000" />
+      <workItem from="1613787583061" duration="3954000" />
+      <workItem from="1613813948354" duration="41000" />
+      <workItem from="1613816670862" duration="1364000" />
+      <workItem from="1613875217551" duration="2564000" />
+      <workItem from="1614045785118" duration="6691000" />
+      <workItem from="1614074056821" duration="23000" />
+      <workItem from="1614136244254" duration="2153000" />
+      <workItem from="1614311786477" duration="1070000" />
+      <workItem from="1614581765379" duration="11288000" />
+      <workItem from="1614654376056" duration="14956000" />
+      <workItem from="1614763013017" duration="7000" />
+      <workItem from="1614778988972" duration="1301000" />
+      <workItem from="1614842167984" duration="13997000" />
+      <workItem from="1614927697910" duration="11357000" />
+      <workItem from="1614995369625" duration="8742000" />
+      <workItem from="1615084229341" duration="5961000" />
+      <workItem from="1615193099356" duration="715000" />
+      <workItem from="1615275644959" duration="1569000" />
+      <workItem from="1615371032764" duration="3417000" />
+      <workItem from="1615459155846" duration="5792000" />
+      <workItem from="1615537135823" duration="519000" />
+      <workItem from="1615600188326" duration="3673000" />
+      <workItem from="1615798212210" duration="2524000" />
+      <workItem from="1615800767899" duration="4879000" />
+      <workItem from="1615864220541" duration="2529000" />
+      <workItem from="1615895496819" duration="42000" />
+      <workItem from="1615985967026" duration="1174000" />
+      <workItem from="1616057926359" duration="6064000" />
+      <workItem from="1616143519753" duration="6830000" />
+      <workItem from="1616235620737" duration="7609000" />
+      <workItem from="1616313029110" duration="3781000" />
+      <workItem from="1616398557001" duration="7499000" />
     </task>
     <task id="LOCAL-00001" summary="快速排序">
       <created>1610547216424</created>
@@ -267,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610547246274</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新">
+      <created>1613791174812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613791174812</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,101 +322,95 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="快速排序" />
     <MESSAGE value="归并排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="归并排序" />
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="619" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610529067558">
+    <state x="619" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614929817080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="619" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610529067558" />
-    <state x="468" y="48" key="CommitChangelistDialog2" timestamp="1611025392336">
+    <state x="619" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1614929817080" />
+    <state x="721" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1616245952663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="468" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611025392336" />
-    <state x="690" y="198" key="FileChooserDialogImpl" timestamp="1612444596339">
+    <state x="721" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1616245952663" />
+    <state x="468" y="48" key="CommitChangelistDialog2" timestamp="1613791171465">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="198" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1605255645072" />
-    <state x="690" y="198" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612444596339" />
-    <state width="1867" height="218" key="GridCell.Tab.0.bottom" timestamp="1613791124986">
+    <state x="468" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613791171465" />
+    <state x="690" y="198" key="FileChooserDialogImpl" timestamp="1615020886591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
-    <state width="1867" height="166" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1607007893441" />
-    <state width="1867" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613791124986" />
-    <state width="1867" height="218" key="GridCell.Tab.0.center" timestamp="1613791124986">
+    <state x="690" y="198" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615020886591" />
+    <state width="1867" height="355" key="GridCell.Tab.0.bottom" timestamp="1616409010991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
-    <state width="1867" height="166" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1607007893441" />
-    <state width="1867" height="218" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613791124986" />
-    <state width="1867" height="218" key="GridCell.Tab.0.left" timestamp="1613791124985">
+    <state width="1867" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616409010991" />
+    <state width="1867" height="355" key="GridCell.Tab.0.center" timestamp="1616409010991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
-    <state width="1867" height="166" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1607007893441" />
-    <state width="1867" height="218" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613791124985" />
-    <state width="1867" height="218" key="GridCell.Tab.0.right" timestamp="1613791124986">
+    <state width="1867" height="355" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616409010991" />
+    <state width="1867" height="355" key="GridCell.Tab.0.left" timestamp="1616409010990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
-    <state width="1867" height="166" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1607007893441" />
-    <state width="1867" height="218" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613791124986" />
-    <state width="1867" height="393" key="GridCell.Tab.1.bottom" timestamp="1613707623529">
+    <state width="1867" height="355" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616409010990" />
+    <state width="1867" height="355" key="GridCell.Tab.0.right" timestamp="1616409010991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570655" />
-    <state width="1867" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1606748306193" />
-    <state width="1867" height="393" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613707623529" />
-    <state width="1867" height="393" key="GridCell.Tab.1.center" timestamp="1613707623529">
+    <state width="1867" height="355" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616409010991" />
+    <state width="1867" height="355" key="GridCell.Tab.1.bottom" timestamp="1616409010992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.1.center/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
-    <state width="1867" height="332" key="GridCell.Tab.1.center/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1606748306193" />
-    <state width="1867" height="393" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613707623529" />
-    <state width="1867" height="393" key="GridCell.Tab.1.left" timestamp="1613707623528">
+    <state width="1867" height="355" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616409010992" />
+    <state width="1867" height="355" key="GridCell.Tab.1.center" timestamp="1616409010992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.1.left/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
-    <state width="1867" height="332" key="GridCell.Tab.1.left/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1606748306193" />
-    <state width="1867" height="393" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613707623528" />
-    <state width="1867" height="393" key="GridCell.Tab.1.right" timestamp="1613707623529">
+    <state width="1867" height="355" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616409010992" />
+    <state width="1867" height="355" key="GridCell.Tab.1.left" timestamp="1616409010991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="332" key="GridCell.Tab.1.right/0.0.1920.1040/-1080.-420.1080.1880@-1080.-420.1080.1880" timestamp="1606752570654" />
-    <state width="1867" height="332" key="GridCell.Tab.1.right/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1606748306193" />
-    <state width="1867" height="393" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613707623529" />
+    <state width="1867" height="355" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616409010991" />
+    <state width="1867" height="355" key="GridCell.Tab.1.right" timestamp="1616409010992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="355" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616409010992" />
     <state x="312" y="0" key="SettingsEditor" timestamp="1612498214556">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1605183628727" />
     <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612498214556" />
     <state x="452" y="186" key="Vcs.Push.Dialog.v2" timestamp="1611144487053">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="186" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611144487053" />
-    <state x="552" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1613727215389">
+    <state x="552" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1616398605295">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1606994498539" />
-    <state x="552" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613727215389" />
+    <state x="552" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616398605295" />
     <state x="694" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610547219883">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="694" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610547219883" />
+    <state x="587" y="27" width="952" height="1020" key="dock-window-1" timestamp="1615102522917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="587" y="294" width="952" height="1020" key="dock-window-1/0.0.1920.1040/-936.488.936.1208@0.0.1920.1040" timestamp="1615102386559" />
+    <state x="587" y="27" width="952" height="1020" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1615102522917" />
     <state x="161" y="60" width="1598" height="699" key="new project wizard" timestamp="1612444602072">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="161" y="193" key="new project wizard/0.0.1920.1040/-1080.-420.1080.1880@0.0.1920.1040" timestamp="1605255651407" />
     <state x="161" y="60" width="1598" height="699" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612444602072" />
-    <state x="532" y="237" width="840" height="1034" key="run.anything.popup" timestamp="1612495448271">
+    <state x="642" y="81" key="refactoring.ChangeSignatureDialog" timestamp="1614940353987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="532" y="237" width="840" height="1034" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612495448271" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1612582045542">
+    <state x="642" y="81" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614940353987" />
+    <state x="532" y="237" width="840" height="1034" key="run.anything.popup" timestamp="1614045841574">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612582045542" />
+    <state x="532" y="237" width="840" height="1034" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614045841574" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1616245410355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616245410355" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -477,7 +517,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/动态规划/LongestIncrSub_300.java</url>
-          <line>75</line>
+          <line>77</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -521,11 +561,6 @@
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/动态规划/练习题/WiggleSubSequence_376.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/动态规划/练习题/MaximumLengthOfPairChain_646.java</url>
           <line>29</line>
           <option name="timeStamp" value="81" />
@@ -535,11 +570,145 @@
           <line>61</line>
           <option name="timeStamp" value="84" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/分治法/DifferentWaysToAddParentheses_241.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/其他/字节跳动/ByteDance.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/其他/字节跳动/ByteDance3.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/其他/字节跳动/KthSmallest_378.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/其他/字节跳动/KthSmallest_378.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数据结构/堆/Heap.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/二分查找/MedianOfTwoSortedArrays_4.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/字符串/LongestPalindromicSubstring_5.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/其他/腾讯/StringToInt_8.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/backtracking/ThreeSum_15.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/backtracking/ThreeSum_15.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/其他/腾讯/MergeKLists_23.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/其他/腾讯/MergeKLists_23.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/其他/腾讯/MergeKLists_23.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/utils/test.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/动态规划/练习题/LongestTurbulentSubarray_978.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/动态规划/练习题/FillingShelves_1105.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/动态规划/练习题/WhereBallFall_1706.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/动态规划/练习题/GreatestSumDivisiblebyThree_1262.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/其他/腾讯/SearchinRotatedSortedArray_33.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/其他/腾讯/PartitionList_86.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/其他/腾讯/MultiplyStrings_43.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/其他/腾讯/JumpGame_55.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/其他/腾讯/SpiralMatrix_54.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/其他/腾讯/RotateList_61.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/其他/腾讯/StringToInt_8.java</url>
+          <line>50</line>
+          <properties class="其他.腾讯.StringToInt_8" method="isPalindrome">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="dp[1]" />
+        <watch expression="node" />
+        <watch expression="head.next.next.next" />
       </configuration>
     </watches-manager>
   </component>
