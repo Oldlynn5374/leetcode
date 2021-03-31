@@ -8,10 +8,10 @@ import java.util.Stack;
 public class test {
     public static void main(String[] args) {
 
-        StringBuilder sb = new StringBuilder();
-        sb.append(18 % 10);
-        sb.append(50);
-        System.out.println(sb.toString());
+        Integer i1 = new Integer(4);
+        Integer i2 = i1;
+        i1 = 3;
+        System.out.println(i2);
 
     }
 
