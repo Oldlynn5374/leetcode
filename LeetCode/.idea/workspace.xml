@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28a97093-a6ba-4a2e-bf9b-b86dc1280d44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/BinaryTreeMaximumPathSum_124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/KthLargestElementInAnArray_215.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/KthSmallestElementinaBST_230.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/LRUCache_146.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/LowestCommonAncestorofaBinaryTree_236.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/ProductofArrayExceptSelf_238.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/SortList_148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/SubSets_78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Solution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Solution5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/AvailableBrac_20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/utils/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/utils/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,9 +66,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="BinaryTreeMaximumPathSum_124" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他.腾讯.BinaryTreeMaximumPathSum_124" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="AvailableBrac_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他.腾讯.AvailableBrac_20" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -85,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthLargestElementInAnArray_215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他.腾讯.KthLargestElementInAnArray_215" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="其他.腾讯.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowestCommonAncestorofaBinaryTree_236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他.腾讯.LowestCommonAncestorofaBinaryTree_236" />
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Solution2" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="其他.腾讯.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductofArrayExceptSelf_238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他.腾讯.ProductofArrayExceptSelf_238" />
+    <configuration name="Solution5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Solution5" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="其他.腾讯.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,19 +133,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinaryTreeMaximumPathSum_124" />
-      <item itemvalue="Application.KthLargestElementInAnArray_215" />
-      <item itemvalue="Application.LowestCommonAncestorofaBinaryTree_236" />
-      <item itemvalue="Application.ProductofArrayExceptSelf_238" />
       <item itemvalue="Application.test" />
+      <item itemvalue="Application.AvailableBrac_20" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution2" />
+      <item itemvalue="Application.Solution5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution5" />
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.AvailableBrac_20" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.BinaryTreeMaximumPathSum_124" />
-        <item itemvalue="Application.ProductofArrayExceptSelf_238" />
-        <item itemvalue="Application.LowestCommonAncestorofaBinaryTree_236" />
-        <item itemvalue="Application.KthLargestElementInAnArray_215" />
       </list>
     </recent_temporary>
   </component>
@@ -271,6 +266,8 @@
       <workItem from="1616745887964" duration="4275000" />
       <workItem from="1616836597664" duration="1230000" />
       <workItem from="1616918642564" duration="598000" />
+      <workItem from="1617529135684" duration="10604000" />
+      <workItem from="1617610107358" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="快速排序">
       <created>1610547216424</created>
@@ -321,10 +318,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="619" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1614929817080" />
-    <state x="721" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1616496509584">
+    <state x="721" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1617538689024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="721" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1616496509584" />
+    <state x="721" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617538689024" />
     <state x="468" y="48" key="CommitChangelistDialog2" timestamp="1616409567955">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -333,38 +330,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="198" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615020886591" />
-    <state width="1867" height="555" key="GridCell.Tab.0.bottom" timestamp="1616848837071">
+    <state width="1867" height="355" key="GridCell.Tab.0.bottom" timestamp="1617545619779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="555" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616848837071" />
-    <state width="1867" height="555" key="GridCell.Tab.0.center" timestamp="1616848837071">
+    <state width="1867" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617545619779" />
+    <state width="1867" height="355" key="GridCell.Tab.0.center" timestamp="1617545619779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="555" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616848837071" />
-    <state width="1867" height="555" key="GridCell.Tab.0.left" timestamp="1616848837071">
+    <state width="1867" height="355" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617545619779" />
+    <state width="1867" height="355" key="GridCell.Tab.0.left" timestamp="1617545619779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="555" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616848837071" />
-    <state width="1867" height="555" key="GridCell.Tab.0.right" timestamp="1616848837071">
+    <state width="1867" height="355" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617545619779" />
+    <state width="1867" height="355" key="GridCell.Tab.0.right" timestamp="1617545619779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="555" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616848837071" />
-    <state width="1867" height="355" key="GridCell.Tab.1.bottom" timestamp="1616678750688">
+    <state width="1867" height="355" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617545619779" />
+    <state width="1867" height="355" key="GridCell.Tab.1.bottom" timestamp="1617545619779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="355" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616678750688" />
-    <state width="1867" height="355" key="GridCell.Tab.1.center" timestamp="1616678750688">
+    <state width="1867" height="355" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617545619779" />
+    <state width="1867" height="355" key="GridCell.Tab.1.center" timestamp="1617545619779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="355" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616678750688" />
-    <state width="1867" height="355" key="GridCell.Tab.1.left" timestamp="1616678750688">
+    <state width="1867" height="355" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617545619779" />
+    <state width="1867" height="355" key="GridCell.Tab.1.left" timestamp="1617545619779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="355" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616678750688" />
-    <state width="1867" height="355" key="GridCell.Tab.1.right" timestamp="1616678750688">
+    <state width="1867" height="355" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617545619779" />
+    <state width="1867" height="355" key="GridCell.Tab.1.right" timestamp="1617545619779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="355" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616678750688" />
+    <state width="1867" height="355" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617545619779" />
     <state x="312" y="0" key="SettingsEditor" timestamp="1612498214556">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -373,10 +370,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="186" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611144487053" />
-    <state x="552" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1616919323450">
+    <state x="552" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1617610107867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616919323450" />
+    <state x="552" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617610107867" />
     <state x="694" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610547219883">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -705,6 +702,21 @@
           <url>file://$PROJECT_DIR$/src/其他/腾讯/ProductofArrayExceptSelf_238.java</url>
           <line>36</line>
           <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/其他/腾讯/AvailableBrac_20.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Solution.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Solution5.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/其他/腾讯/StringToInt_8.java</url>
