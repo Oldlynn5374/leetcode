@@ -2,17 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28a97093-a6ba-4a2e-bf9b-b86dc1280d44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Solution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Solution5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他/腾讯/AvailableBrac_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DS/DailyTemperatures_739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DS/ImplementQueueWithStacks_232.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DS/MinStack_155.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DS/RotateImage_48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DS/Search2DMatrixII_240.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/CombinationSum_39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bit/BinaryNumberWithAlternatingBits_693.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bit/CountingBits_338.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bit/MaximumProductofWordLengths_318.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bit/MissingNumber_268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bit/NumberComplement_476.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bit/ReverseBits_190.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bit/SingleNumberIII_260.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bit/SingleNumber_136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mathermatics/LinkedListRandomNode_382.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mathermatics/RandomPickWithWeight_528.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mathermatics/ShuffleArray_384.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/exceptionTest/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/hashcodetest/MutableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/练习题/BinaryTreeInorderTraversal_94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/练习题/FindIPaddr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/练习题/GenerateParentheses_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/练习题/GroupAnagrams_49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/练习题/LetterCombinationsofaPhoneNumber_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/练习题/MergeIntervals_56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/练习题/NextPermutation_31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/练习题/RemoveNthNodeFromEndofList_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/练习题/SkylineProblem_218.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/练习题/UniquePaths_62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/网易/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/网易/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/网易/Soultion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/腾讯/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/腾讯/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/腾讯/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/腾讯/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/阿里/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/utils/Brac.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/utils/Brac.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/utils/MinStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/utils/MinStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/utils/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/utils/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Brac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Brac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -66,13 +117,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="AvailableBrac_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他.腾讯.AvailableBrac_20" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Brac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.Brac" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="其他.腾讯.*" />
+          <option name="PATTERN" value="utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Solution" />
+    <configuration name="FindIPaddr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="练习题.FindIPaddr" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="练习题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Solution2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="阿里.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="阿里.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Solution5" />
+    <configuration name="SkylineProblem_218" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="练习题.SkylineProblem_218" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="练习题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,8 +170,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="utils.test" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.Test" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -133,19 +184,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.AvailableBrac_20" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution2" />
-      <item itemvalue="Application.Solution5" />
+      <item itemvalue="Application.FindIPaddr" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Brac" />
+      <item itemvalue="Application.SkylineProblem_218" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution5" />
-        <item itemvalue="Application.Solution2" />
-        <item itemvalue="Application.AvailableBrac_20" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SkylineProblem_218" />
+        <item itemvalue="Application.Brac" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FindIPaddr" />
       </list>
     </recent_temporary>
   </component>
@@ -268,6 +319,33 @@
       <workItem from="1616918642564" duration="598000" />
       <workItem from="1617529135684" duration="10604000" />
       <workItem from="1617610107358" duration="10000" />
+      <workItem from="1617972646978" duration="254000" />
+      <workItem from="1617973355193" duration="8000" />
+      <workItem from="1617973717714" duration="696000" />
+      <workItem from="1618050252713" duration="1348000" />
+      <workItem from="1618131465918" duration="4509000" />
+      <workItem from="1618210221246" duration="2688000" />
+      <workItem from="1618223182003" duration="3044000" />
+      <workItem from="1618296451314" duration="6224000" />
+      <workItem from="1618400630596" duration="2825000" />
+      <workItem from="1618472782637" duration="5793000" />
+      <workItem from="1618563082101" duration="6706000" />
+      <workItem from="1618648186162" duration="11345000" />
+      <workItem from="1618713509450" duration="2658000" />
+      <workItem from="1618728708169" duration="6855000" />
+      <workItem from="1618747025345" duration="7323000" />
+      <workItem from="1618830675689" duration="709000" />
+      <workItem from="1618883520447" duration="6111000" />
+      <workItem from="1618920671132" duration="932000" />
+      <workItem from="1618995365659" duration="3046000" />
+      <workItem from="1619078561032" duration="1547000" />
+      <workItem from="1619232465343" duration="2647000" />
+      <workItem from="1619251333751" duration="7005000" />
+      <workItem from="1619338537995" duration="2112000" />
+      <workItem from="1619431155048" duration="6232000" />
+      <workItem from="1619509734184" duration="5709000" />
+      <workItem from="1619577945195" duration="1298000" />
+      <workItem from="1619601394423" duration="5046000" />
     </task>
     <task id="LOCAL-00001" summary="快速排序">
       <created>1610547216424</created>
@@ -318,10 +396,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="619" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1614929817080" />
-    <state x="721" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1617538689024">
+    <state x="721" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1618748354464">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="721" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1617538689024" />
+    <state x="721" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1618748354464" />
     <state x="468" y="48" key="CommitChangelistDialog2" timestamp="1616409567955">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -330,38 +408,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="198" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615020886591" />
-    <state width="1867" height="355" key="GridCell.Tab.0.bottom" timestamp="1617545619779">
+    <state width="1867" height="224" key="GridCell.Tab.0.bottom" timestamp="1619612816146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617545619779" />
-    <state width="1867" height="355" key="GridCell.Tab.0.center" timestamp="1617545619779">
+    <state width="1867" height="224" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1619612816146" />
+    <state width="1867" height="224" key="GridCell.Tab.0.center" timestamp="1619612816146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="355" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617545619779" />
-    <state width="1867" height="355" key="GridCell.Tab.0.left" timestamp="1617545619779">
+    <state width="1867" height="224" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1619612816146" />
+    <state width="1867" height="224" key="GridCell.Tab.0.left" timestamp="1619612816146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="355" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617545619779" />
-    <state width="1867" height="355" key="GridCell.Tab.0.right" timestamp="1617545619779">
+    <state width="1867" height="224" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1619612816146" />
+    <state width="1867" height="224" key="GridCell.Tab.0.right" timestamp="1619612816146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="355" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617545619779" />
-    <state width="1867" height="355" key="GridCell.Tab.1.bottom" timestamp="1617545619779">
+    <state width="1867" height="224" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1619612816146" />
+    <state width="1867" height="295" key="GridCell.Tab.1.bottom" timestamp="1619579546678">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="355" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617545619779" />
-    <state width="1867" height="355" key="GridCell.Tab.1.center" timestamp="1617545619779">
+    <state width="1867" height="295" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1619579546678" />
+    <state width="1867" height="295" key="GridCell.Tab.1.center" timestamp="1619579546678">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="355" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617545619779" />
-    <state width="1867" height="355" key="GridCell.Tab.1.left" timestamp="1617545619779">
+    <state width="1867" height="295" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1619579546678" />
+    <state width="1867" height="295" key="GridCell.Tab.1.left" timestamp="1619579546678">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="355" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617545619779" />
-    <state width="1867" height="355" key="GridCell.Tab.1.right" timestamp="1617545619779">
+    <state width="1867" height="295" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1619579546678" />
+    <state width="1867" height="295" key="GridCell.Tab.1.right" timestamp="1619579546678">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="355" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617545619779" />
+    <state width="1867" height="295" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1619579546678" />
     <state x="312" y="0" key="SettingsEditor" timestamp="1612498214556">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -370,14 +448,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="186" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611144487053" />
-    <state x="552" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1617610107867">
+    <state x="552" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1619601778438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617610107867" />
-    <state x="694" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610547219883">
+    <state x="552" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619601778438" />
+    <state x="708" y="140" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1618132316603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="694" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610547219883" />
+    <state x="708" y="140" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1618132316603" />
     <state x="587" y="27" width="952" height="1020" key="dock-window-1" timestamp="1615102522917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -387,18 +465,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="161" y="60" width="1598" height="699" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612444602072" />
-    <state x="642" y="81" key="refactoring.ChangeSignatureDialog" timestamp="1614940353987">
+    <state x="642" y="81" key="refactoring.ChangeSignatureDialog" timestamp="1618659544560">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="642" y="81" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614940353987" />
+    <state x="642" y="81" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618659544560" />
     <state x="532" y="237" width="840" height="1034" key="run.anything.popup" timestamp="1614045841574">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="532" y="237" width="840" height="1034" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614045841574" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1616492563471">
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1619617217918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616492563471" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1619617217918" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -629,8 +707,8 @@
           <option name="timeStamp" value="113" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/utils/test.java</url>
-          <line>68</line>
+          <url>file://$PROJECT_DIR$/src/utils/Test.java</url>
+          <line>71</line>
           <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -718,6 +796,121 @@
           <line>40</line>
           <option name="timeStamp" value="155" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mathermatics/RandomPickWithWeight_528.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bit/CountingBits_338.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bit/MissingNumber_268.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bit/NumberComplement_476.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bit/SingleNumberIII_260.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/练习题/LetterCombinationsofaPhoneNumber_17.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/练习题/RemoveNthNodeFromEndofList_19.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/练习题/NextPermutation_31.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/练习题/NextPermutation_31.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/练习题/GenerateParentheses_22.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/网易/Solution1.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/腾讯/Solution1.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/腾讯/Solution2.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/腾讯/Solution3.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/腾讯/Main.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DS/RotateImage_48.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DS/Search2DMatrixII_240.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DS/DailyTemperatures_739.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/练习题/GroupAnagrams_49.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/练习题/MergeIntervals_56.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/练习题/FindIPaddr.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/练习题/SkylineProblem_218.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/练习题/SkylineProblem_218.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/其他/腾讯/StringToInt_8.java</url>
           <line>50</line>
@@ -726,15 +919,20 @@
           </properties>
           <option name="timeStamp" value="104" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/阿里/Main.java</url>
+          <line>29</line>
+          <properties class="阿里.Main" method="dfs">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="node" />
-        <watch expression="head.next.next.next" />
-        <watch expression="n.prev" />
-        <watch expression="n.prev" language="JAVA" />
-      </configuration>
-    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode$Soultion2.ic" NAME="Soultion2 Coverage Results" MODIFIED="1618734536528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>网易.*</FILTER>
+    </SUITE>
   </component>
 </project>

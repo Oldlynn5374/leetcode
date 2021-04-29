@@ -1,17 +1,20 @@
 package utils;
 
+import java.lang.ref.WeakReference;
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
+import java.util.concurrent.atomic.AtomicInteger;
 
-public class test {
+public class Test {
+
     public static void main(String[] args) {
-
-        Integer i1 = new Integer(4);
-        Integer i2 = i1;
-        i1 = 3;
-        System.out.println(i2);
+        String str = "sss";
+        AtomicInteger atomicInteger = new AtomicInteger(7);
+        atomicInteger.compareAndSet(9, 8);
+        System.out.println(atomicInteger);
+        
 
     }
 
